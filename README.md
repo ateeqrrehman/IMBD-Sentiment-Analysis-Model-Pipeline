@@ -110,12 +110,16 @@ Typical test accuracy (seeds fixed):
 
 ## Sample Console Output
 
+---
 Environment:
  • tensorflow 2.18.0
  • keras 3.8.0
  • numpy 2.0.2
  • scikit-learn 1.6.1
  • nltk 3.9.1
+---
+
+---
 
 ── Baselines (BoW + LogReg) ──
 LogReg  (with stopwords)      : 88.34%  [12.2s]
@@ -128,6 +132,8 @@ FF-NN  (stop-words removed)   : 87.46%  [53.3s]
 ── Convolutional Neural Net ──
 CNN    (with stopwords)       : 87.65%  [41.2s]
 CNN    (stop-words removed)   : 86.15%  [43.5s]
+---
+---
 
 ───────────── Analysis ─────────────
 Best performer: LogReg (with) at 88.3% accuracy.
@@ -142,10 +148,13 @@ Accuracy summary:
 
 All models cleared the ≥ 85 % bar.
 ─────────────────────────────────────
+---
 
 ## Acknowledgements
+---
 
 *Dataset* — Maas et al., *Learning Word Vectors for Sentiment Analysis*, ACL 2011.
 *Libraries* — TensorFlow/Keras, scikit-learn, NLTK.
 Contributions & issues welcome!
+---
 
