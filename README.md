@@ -110,7 +110,6 @@ Typical test accuracy (seeds fixed):
 
 ## Sample Console Output
 
-```
 Environment:
  • tensorflow 2.18.0
  • keras 3.8.0
@@ -143,8 +142,6 @@ Accuracy summary:
 
 All models cleared the ≥ 85 % bar.
 ─────────────────────────────────────
-
----
 
 ## Acknowledgements
 
