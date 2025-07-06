@@ -106,7 +106,6 @@ Typical test accuracy (seeds fixed):
 | CNN (with stop)        |     87.6 % |
 | CNN (no-stop)          |     86.1 % |
 
----
 
 ## Sample Console Output
 Environment:
@@ -116,26 +115,20 @@ Environment:
  • scikit-learn 1.6.1
  • nltk 3.9.1
 
----
-
----
-
 
 ── Baselines (BoW + LogReg) ──
-LogReg  (with stopwords)      : 88.34%  [12.2s] \n
-LogReg  (stop-words removed)  : 87.94%  [10.7s] \n
+* LogReg  (with stopwords)      : 88.34%  [12.2s]
+* LogReg  (stop-words removed)  : 87.94%  [10.7s]
 
 ── Feed-Forward Neural Net ──
-FF-NN  (with stopwords)       : 87.72%  [50.9s] \n
-FF-NN  (stop-words removed)   : 87.46%  [53.3s] \n
+* FF-NN  (with stopwords)       : 87.72%  [50.9s]
+* FF-NN  (stop-words removed)   : 87.46%  [53.3s]
 
 ── Convolutional Neural Net ──
-CNN    (with stopwords)       : 87.65%  [41.2s] \n
-CNN    (stop-words removed)   : 86.15%  [43.5s] \n
+* CNN    (with stopwords)       : 87.65%  [41.2s]
+* CNN    (stop-words removed)   : 86.15%  [43.5s]
 
----
 
----
 
 ## Analysis
 Best performer: LogReg (with) at 88.3% accuracy.
@@ -150,8 +143,6 @@ Accuracy summary:
 
 All models cleared the ≥ 85 % bar.
 ─────────────────────────────────────
-
----
 
 
 ## Acknowledgements
