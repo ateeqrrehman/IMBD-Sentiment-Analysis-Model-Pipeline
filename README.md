@@ -14,7 +14,7 @@ Reproducible Keras/TensorFlow pipeline that benchmarks BoW-LogReg, FF-NN, and CN
 5. [Implementation Highlights](#implementation-highlights)  
 6. [Reproducing our Numbers](#reproducing-our-numbers)  
 7. [Sample Console Output](#sample-console-output)
-8. [Analysis]
+8. [Analysis](#analysis)
 9. [Acknowledgements](#acknowledgements)
 
 ---
