@@ -122,16 +122,16 @@ Environment:
 
 
 ── Baselines (BoW + LogReg) ──
-LogReg  (with stopwords)      : 88.34%  [12.2s]
-LogReg  (stop-words removed)  : 87.94%  [10.7s]
+LogReg  (with stopwords)      : 88.34%  [12.2s] \n
+LogReg  (stop-words removed)  : 87.94%  [10.7s] \n
 
 ── Feed-Forward Neural Net ──
-FF-NN  (with stopwords)       : 87.72%  [50.9s]
-FF-NN  (stop-words removed)   : 87.46%  [53.3s]
+FF-NN  (with stopwords)       : 87.72%  [50.9s] \n
+FF-NN  (stop-words removed)   : 87.46%  [53.3s] \n
 
 ── Convolutional Neural Net ──
-CNN    (with stopwords)       : 87.65%  [41.2s]
-CNN    (stop-words removed)   : 86.15%  [43.5s]
+CNN    (with stopwords)       : 87.65%  [41.2s] \n
+CNN    (stop-words removed)   : 86.15%  [43.5s] \n
 
 ---
 
