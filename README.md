@@ -1,7 +1,6 @@
 # IMBD-Sentiment-Analysis-Model-Pipeline
 Reproducible Keras/TensorFlow pipeline that benchmarks BoW-LogReg, FF-NN, and CNN models with and without stop-words, on the IMDb movie-review sentiment dataset.
 
-````markdown
 # IMDB Sentiment Classifier 📝
 *A lightweight, reproducible pipeline that benchmarks Bag-of-Words + LogReg, a Feed-Forward Neural Net, and a 1-D CNN on the classic IMDB movie-review dataset.*
 
@@ -153,5 +152,3 @@ All models cleared the ≥ 85 % bar.
 *Libraries* — TensorFlow/Keras, scikit-learn, NLTK.
 Contributions & issues welcome!
 
-```
-```
