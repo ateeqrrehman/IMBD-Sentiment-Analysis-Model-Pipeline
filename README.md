@@ -141,8 +141,8 @@ Accuracy summary:
  • CNN    (with)      87.65%
  • CNN    (no-stop)   86.15%
 
-All models cleared the ≥ 85 % bar.
-─────────────────────────────────────
+* All models cleared the ≥ 85 % bar.
+* ─────────────────────────────────────
 
 
 ## Acknowledgements
