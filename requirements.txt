@@ -1,0 +1,5 @@
+tensorflow>=2.18.0
+keras>=3.8.0
+scikit-learn>=1.6.1
+nltk>=3.9.1
+numpy>=2.0
